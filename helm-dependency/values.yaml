@@ -1,4 +1,5 @@
 wordpress:
+  # Test
   wordpressPassword: foo
   mariadb:
     db:
